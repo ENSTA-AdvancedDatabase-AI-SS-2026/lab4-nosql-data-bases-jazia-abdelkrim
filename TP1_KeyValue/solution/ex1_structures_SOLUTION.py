@@ -1,6 +1,5 @@
 """
 SOLUTION — TP1 Exercice 1
-NE PAS DISTRIBUER AUX ÉTUDIANTS
 """
 import redis
 import json
